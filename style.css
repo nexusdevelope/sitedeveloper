@@ -1,11 +1,6 @@
 body{
   background-color: #6600CC;
 }
-@media screen and (max-width: 320px) {
- .wrapper{
-        width: 100%;
-    }
-}
 
 .wrapper {
   height: 100vh;
