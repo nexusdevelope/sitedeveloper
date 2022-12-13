@@ -12,8 +12,8 @@ body{
 
 .typing-demo {
   color: gold;
-  width: 37ch;
-  animation: typing 2s steps(38), blink .3s step-end infinite alternate;
+  width:41ch;
+  animation: typing 2s steps(41), blink .3s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
